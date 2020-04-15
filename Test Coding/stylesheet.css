@@ -1,0 +1,15 @@
+body {
+    background-color: azure; 
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif; font-style: italic; color: black;
+}
+
+h2{font-family: Arial, Helvetica, sans-serif; font-style: italic; color: black;
+
+}
+
+li {
+    font-family: Arial; color: slategray;
+}
